@@ -1,3 +1,3 @@
-# Estudando estatística com Python
+# Estatística com Python
 
 ...
